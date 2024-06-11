@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #f4f4f4;
+    border-top: 1px solid #ccc;
+}
+
+footer a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.dark-mode footer {
+    background-color: #444;
+    border-top-color: #555;
+}
